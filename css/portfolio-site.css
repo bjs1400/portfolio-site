@@ -1,0 +1,10 @@
+nav {
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    height: 20px;
+}
+
+#name {
+    color: pink;
+}
